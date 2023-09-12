@@ -6,7 +6,7 @@
 - 🎨 Me apasiona el arte y el detalle del UI.
 - 🤖 Tengo una meta utópica de transferir una mente humana a código.
 - 🏡 Vivo en Medellín, Antioquia, Colombia.
-- 👪 Soy padre de una adorable.
+- 👪 Soy padre de una adorable hija.
 
 ## Intereses
 - 💻 Me encanta programar en JavaScript.
