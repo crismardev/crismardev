@@ -16,7 +16,3 @@
 ## Contacto
 - 📧 Puedes contactarme en [tu@email.com](cristhian@pharmarket.co).
 - 🐦 Encuéntrame en Twitter [@TuUsuarioDeTwitter](https://twitter.com/untintoconpan).
-
-¡Gracias por visitar mi perfil! 😊
-
-// Perfil generado con CHATGPT
