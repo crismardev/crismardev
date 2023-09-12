@@ -14,5 +14,5 @@
 - 🌌 Reflexiono sobre el significado de Dios y nuestra existencia en el vasto universo.
 
 ## Contacto
-- 📧 Puedes contactarme en [tu@email.com](cristhian@pharmarket.co).
-- 🐦 Encuéntrame en Twitter [@TuUsuarioDeTwitter](https://twitter.com/untintoconpan).
+- 📧 Puedes contactarme en [cristhian@pharmarket.co](cristhian@pharmarket.co).
+- 🐦 Encuéntrame en Twitter [@untintoconpan](https://twitter.com/untintoconpan).
